@@ -19,10 +19,12 @@ sub content {
   my $verses = $_[0];
   my $notes = $_[1];
   foreach my $line (split('\n', $notes)){
-    # Insere linha de nota no lugar do primeiro (*) encontrado
-    $verses =~ s/\*/<RF q=$count>$line<Rf>/s;
     # Intera o número de notas
     $count++;
+    # Remove espaço do início da linha
+    $line =~ s/^\s+//g;
+    # Insere linha de nota no lugar do primeiro (*) encontrado
+    $verses =~ s/\*/<RF q=$count>$line<Rf>/s;
   }
   # Abre o arquivo de log para gravar numeração atual de notas
   open(my $number_note, ">", $file_number_note) or die "Erro ao abrir log: $!";

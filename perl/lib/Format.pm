@@ -4,21 +4,27 @@ package Format;
 
 # Recebe dois argumentos: o tipo de regex (separação de versículo ou separação de notas) a ser aplicada e o texto a ser formatado;
 sub notes {
-    my @notes = ();
     my $note = "";
-    my $notes = "";
-    foreach my $line (split(/\w+\n/, "@_")){
-        $note = $note . $line;
-        # Remove quebras de linhas
-        chomp $note;
-        # Adiciona ao array de notas
-        push @notes, $note;
-        $note = "";
+    my @notes = ();
+    for my $line(@_){
+       # Remove quebra de linha
+       $line =~ s/\n$//;
+       # Deixa passar todas as linhas que não são uma referência (a, b, c etc..)
+       if($line =~ /[^\^\w+\$].*\n?.*\n?$/){
+         # Concatena na variável $note as linhas selecionadas
+         $note = $note . " $line";
+       }else{
+         # Se a linha contiver um único caracter, então a variável $note deve ser adicionada ao array de notas @notes
+         if($note ne ""){
+            # Remove espaço do início das linhas
+            $note =~ s/^\s{1,}//g;
+            push @notes, "$note\n";
+            # Esvazia $note
+            $note = "";
+         }
+       }
     }
-    $notes = "@notes";
-    # Remove espaços no início das linhas
-    $notes =~ s/^\s+//gm;
-    return $notes;
+    return "@notes";
 }
 
 sub verses {
