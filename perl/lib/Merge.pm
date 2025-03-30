@@ -3,36 +3,32 @@
 package Merge;
 use Cwd;
 
-my $file_number_note = getcwd . "/perl/lib/number-note.log";
+my $file_module_f35 = getcwd . "/modules/bible/f35/F35.nt";
 my $count = undef;
 
-# Abre o arquivo de log e recupera numeração atual de notas
-open(my $number_note, $file_number_note) or die "Erro ao abrir log: $!";
-
-# Copia número para o contador
-$count = <$number_note>;
-
-# Fecha log
-close $number_note or die "Erro ao fechar arquivo: $!";
+# Abre o arquivo de módulo principal (f35.nt) e recupera numeração atual de notas
+open(my $module_f35, $file_module_f35) or die "Erro ao abrir módulo principal: $!";
+# Copia linhas para array
+my @module_f35 = <$module_f35>;
+# Pega número de nota a partir do final do texto que foi invertido
+my $number_note = $1 if reverse("@module_f35") =~ />(\d+)=q FR</;
+# Inverte número para a ordem normal e copia-o para o contador
+$count = reverse($number_note);
+# Fecha módulo principal
+close $module_f35 or die "Erro ao fechar arquivo: $!";
 
 sub content {
   my $verses = $_[0];
   my $notes = $_[1];
   foreach my $line (split('\n', $notes)){
-    # Intera o número de notas
+    # Itera o número de notas
     $count++;
-    # Remove espaço do início da linha
-    $line =~ s/^\s+//g;
+    # Remove espaços no início da linha de nota
+    $line =~ s/^\s+//;
     # Insere linha de nota no lugar do primeiro (*) encontrado
     $verses =~ s/\*/<RF q=$count>$line<Rf>/s;
   }
-  # Abre o arquivo de log para gravar numeração atual de notas
-  open(my $number_note, ">", $file_number_note) or die "Erro ao abrir log: $!";
-  # Grava numeração atual de notas no log
-  print $number_note $count;
-  # Fecha log
-  close $number_note or die "Erro ao fechar arquivo: $!";
-  # Remove espaços no início das linhas
+  # Remove espaços no início das linhas dos versos
   $verses =~ s/^\s+//gm;
   return $verses;
 }

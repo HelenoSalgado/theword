@@ -2,29 +2,26 @@
 
 package Format;
 
-# Recebe dois argumentos: o tipo de regex (separação de versículo ou separação de notas) a ser aplicada e o texto a ser formatado;
+# Recebe o array de notas a ser formatadas;
 sub notes {
-    my $note = "";
+    my $notes = "@_";
     my @notes = ();
-    for my $line(@_){
-       # Remove quebra de linha
-       $line =~ s/\n$//;
-       # Deixa passar todas as linhas que não são uma referência (a, b, c etc..)
-       if($line =~ /[^\^\w+\$].*\n?.*\n?$/){
-         # Concatena na variável $note as linhas selecionadas
-         $note = $note . " $line";
-       }else{
-         # Se a linha contiver um único caracter, então a variável $note deve ser adicionada ao array de notas @notes
-         if($note ne ""){
-            # Remove espaço do início das linhas
-            $note =~ s/^\s{1,}//g;
-            push @notes, "$note\n";
-            # Esvazia $note
-            $note = "";
-         }
-       }
+    # Itera sobre cada bloco de texto, o delimitador de cada bloco é a linha que contém uma única letra
+    foreach(split(/\b[a-z]{1}\b\n/, $notes)){
+      # Verifica se a nota não está vazia
+      if($_){
+        my $note = $_;
+        # Remove quebras de linhas
+        $note =~ s/\n//g;
+        # Adiciona ao array de notas
+        push @notes, "$note\n";
+      }
     }
-    return "@notes";
+    $notes = "@notes";
+    # Remove espaços no início e no final das linhas
+    $notes =~ s/^\s+|\s+$//gm;
+    # Retorna buffer de notas
+    return $notes;
 }
 
 sub verses {
@@ -37,6 +34,7 @@ sub verses {
     $verses =~ s/\d/\n/gm;
     # Remove linhas vazias
     $verses =~ s/^\s//gm;
+    # Retorna buffer de versículos
     return $verses;
 }
 

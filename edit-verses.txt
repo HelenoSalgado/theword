@@ -1,30 +1,49 @@
-<TS1>Os fariseus rejeitam Jesus como sendo o Messias<Ts>E aconteceu que, terminando Jesus de dar instruções a Seus discípulos, prosseguiu dali para ensinar e pregar nas cidades deles.* 
-<TS2>João pede reafirmação<Ts>Mas João, ao ouvir na prisão dos feitos do Messias, enviou dois de seus discípulos 
-a dizer-lhe, “És tu aquele que haveria de vir, ou devemos esperar outro?”* 
-Como resposta Jesus lhes disse: “Vão e declarem a João o que vocês estão ouvindo e vendo: 
-cegos veem e mancos andam, leprosos são purificados e surdos ouvem, mortos são ressuscitados e os pobres são evangelizados. 
-E, abençoado seja aquele que não se ofender por <FU>minha<Fu> causa.”* 
-<TS2>Jesus elogia João o Batizador<Ts>Aí, enquanto eles se afastavam, Jesus começou a dizer às multidões a respeito de João: “O que vocês foram ver no ermo, um junco agitado pelo vento? 
-Ou então, o que vocês foram ver, um homem vestido de roupas finas? Aliás, os que vestem material fino estão em casas de reis. 
-Mas então, o que vocês foram ver, um profeta? Sim, eu vos digo, e muito mais do que um profeta. 
-Porque é este de quem está escrito: <FO>‘Eis que envio o meu mensageiro à tua frente, que preparará o teu caminho diante de ti’<Fo>.* 
-Deveras eu vos digo: Entre os nascidos de mulher, não surgiu alguém maior do que João o Batizador; mas aquele que é menor no Reino dos céus é maior do que ele.*
-E mais, desde os dias de João o Batizador até agora, o Reino dos céus está sendo agressivo, e pessoas agressivas tomam posse dele.* 
-Porque todos os profetas e a Lei profetizaram até João, 
-e se vocês quiserem dar crédito, ele é Elias, que há de vir.* 
-Quem tem ouvidos para ouvir, que ouça! 
-“Mas a que posso comparar esta geração? É como crianças sentadas numa praça e gritando a seus amigos 
-dizendo: ‘Nós lhes tocamos flauta e vocês não dançaram; lhes pranteamos e não se lamentaram!’ 
-Pois veio João nem comendo nem bebendo, e dizem, ‘Ele tem um demônio’; 
-veio o Filho do homem comendo e bebendo, e dizem, ‘Vejam só, um comilão e beberrão, amigo de cobradores de impostos e pecadores!’ Sim, a sabedoria é vindicada por seus filhos.”* 
-<TS2>Jesus denuncia três cidades<Ts>Então Jesus começou a censurar as cidades nas quais havia sido realizada a maior parte de Seus prodígios, porque não se arrependeram. 
-“Ai de ti, Corazim! Ai de ti, Betsaida! Porque se os prodígios que foram realizados em vocês tivessem sido realizados em Tiro e Sidom, há muito que eles teriam se arrependido, com saco e cinzas. 
-Por isso eu vos digo: No Dia de juízo haverá menos rigor para Tiro e Sidom do que para vocês! 
-E tu, Capernaum, ‘a exaltada até ao céu’, serás abatida até Hades!* Porque se os prodígios que foram realizados em ti tivessem sido realizados em Sodoma, ela teria permanecido até hoje. 
-Por isso eu vos digo que no Dia de juízo haverá menos rigor para a terra de Sodoma do que para ti.”* 
-<TS2>“Eu Te louvo, Pai”<Ts>Naquela ocasião Jesus reagiu e disse: “Eu Te louvo, Pai, Senhor do Céu e da terra, porque tens escondido estas coisas dos sábios e inteligentes e as tens revelado a ‘bebês’. 
-Sim, Pai, porque assim foi do Teu agrado.”* 
-“Todas as coisas me foram entregues por meu Pai, e ninguém realmente conhece o Filho a não ser o Pai; tampouco alguém realmente conhece o Pai a não ser o Filho, e qualquer a quem o Filho O quiser revelar. 
-Venham a mim, todos os que estão labutando e que estão sobrecarregados, e eu lhes darei descanso. 
-Tomem sobre vocês o meu jugo e aprendam de mim, pois sou manso e humilde de coração, e vocês encontrarão descanso para as vossas almas; 
-porque o meu jugo é suave e o meu fardo é leve.”*
+<TS2>Jesus é Senhor do Sábado<Ts>Naquela ocasião Jesus passou pelas lavoras de cereal no Sábado.* Já Seus discípulos sentiram fome e começaram a colher espigas e a comer. 
+E ao ver aquilo os fariseus* disseram a Ele, “Epa, teus discípulos estão fazendo o que não é lícito fazer num Sábado!” 
+Mas Ele lhes disse: “Será que vocês não têm lido o que fez Davi quando teve fome, ele e os que com ele estavam? 
+Como entrou na casa de Deus e comeu os pães da apresentação, que não lhe era lícito comer, nem aos que com ele estavam, mas só aos sacerdotes? 
+Ou será que vocês não têm lido na Lei que nos Sábados os sacerdotes no templo profanam o Sábado e ficam sem culpa? 
+Mas eu vos digo que está aqui quem é maior do que o templo. 
+Se vocês ao menos soubessem o que significa isto: ‘Desejo misericórdia, e não sacrifício’,* não teriam condenado os inocentes. 
+Além do mais, o Filho do homem é Senhor do Sábado!”*
+<TS2>Jesus cura no Sábado<Ts>E prosseguindo dali, Ele entrou na sinagoga deles. 
+E aí, havia um homem com uma das mãos atrofiada.* E eles, para que pudessem acusá-lo, lhe perguntaram dizendo, “É lícito curar no Sábado?” 
+Então Ele lhes disse: “Qual homem haverá entre vocês, que tendo uma ovelha, se num Sábado ela cair numa vala, não vai pegá-la e tirá-la? 
+Quanto mais vale um homem do que uma ovelha! Portanto, é lícito fazer o bem no Sábado.” 
+Então Ele diz ao homem, “Estenda a tua mão!” E ele a estendeu, e ela foi restaurada, ficando sã como a outra. 
+Mas os fariseus, após saírem, conspiraram contra Ele, como poderiam destruí-lo.*
+<TS2>Uma retirada tática<Ts>Mas sabendo disso, Jesus retirou-se dali. E grandes multidões O seguiram, e Ele curou a todos.* 
+Mas Ele os advertiu que não proclamassem Sua fama, 
+para que se cumprisse o que foi falado por meio do profeta Isaías, a saber: 
+<FO>“Eis o meu Servo, a quem escolhi, meu Amado, em quem a minha alma se compraz! Porei sobre Ele o meu Espírito,* e Ele declarará justiça às nações.<Fo> 
+<FO>Ele não discutirá nem gritará, nem ouvirá alguém a Sua voz nas ruas.<Fo> 
+<FO>Ele não quebrará um junco machucado, e não apagará um pavio fumegante, até que leve a justiça à vitória.* 
+E em Seu nome nações confiarão.”<Fo>
+<TS2>Os fariseus blasfemam o Espírito Santo<Ts>Então trouxeram a Ele um demonizado cego e mudo, e Ele o curou, de modo que o cego e mudo falava e via.*
+E todo o povo ficou maravilhado e disse, “Não seria este o Cristo,* o filho de Davi?” 
+Mas ao ouvirem isso os fariseus disseram, “Este não expulsa demônios a não ser por Belzebu, chefe dos demônios”. 
+Mas conhecendo os seus pensamentos, Jesus lhes disse: “Cada reino dividido contra si mesmo acaba arruinado, e cada cidade ou casa dividida contra si mesma não subsistirá. 
+E se Satanás expulsa Satanás, está dividido contra si mesmo. Como então subsistirá seu reino? 
+E se eu expulso demônios por Belzebu, por quem os expulsam os vossos filhos? Por isso eles mesmos serão vossos juízes.* 
+Mas se eu expulso demônios pelo Espírito de Deus, então certamente o Reino de Deus já chegou a vocês. 
+Ou como pode alguém entrar na casa do homem forte e saquear seus bens, a não ser que amarre o homem forte primeiro? Só então poderá saquear a casa.*
+<TS2>O pecado sem perdão<Ts>Quem não é comigo é contra mim, e quem comigo não ajunta, espalha.* 
+Por isso eu vos digo: Todo pecado e blasfêmia serão perdoados aos homens, mas a blasfêmia contra o Espírito não será perdoada aos homens. 
+E quem quer que fale uma palavra contra o Filho do homem, lhe será perdoado;* mas quem quer que fale contra o Espírito Santo, não lhe será perdoado, nem na era presente, nem na próxima.*
+<TS2>Jesus denuncia os fariseus<Ts>Ou façam a árvore boa e seu fruto bom, ou façam a árvore podre e seu fruto podre; pois a árvore se conhece pelo fruto.* 
+Raça de víboras!* Como podem vocês, sendo malignos, falar coisas boas?* Pois é do que há em abundância no coração que a boca fala. 
+O homem bom do seu bom depósito produz coisas boas, e o homem maligno do seu maligno depósito produz coisas malignas. 
+E eu ainda vos digo que de cada palavra inútil qualquer que as pessoas possam falar, darão conta no Dia de juízo. 
+Porque por tuas palavras serás justificado, e por tuas palavras serás condenado.”*
+<TS2>O sinal do profeta Jonas<Ts>Então alguns dos escribas e fariseus reagiram dizendo, “Mestre, queremos ver da tua parte um sinal [miraculoso]”.* 
+Mas como resposta Ele lhes disse: “Uma geração maligna e adúltera quer um sinal, mas nenhum sinal lhe será dado senão o sinal do profeta Jonas. 
+Pois assim como Jonas ficou três dias e três noites no estômago do monstro marinho, assim o Filho do homem ficará três dias e três noites no coração da terra.* 
+Homens ninivitas se levantarão no juízo com esta geração e a condenarão, porque eles se arrependeram com a pregação de Jonas; e eis que uma maior do que a de Jonas está aqui.* 
+A rainha do Sul* será levantada no juízo com esta geração e a condenará, porque ela veio dos confins da terra para ouvir a sabedoria de Salomão; e eis que uma maior do que a de Salomão está aqui.*
+<TS2>Uma ‘casa’ vazia não convém<Ts>Quando um espírito imundo [demônio] sai de um homem, passa por lugares áridos procurando descanso, mas não o encontra. 
+Então diz, ‘Voltarei para minha casa de onde saí’. E chegando, a encontra desocupada, varrida e arrumada. 
+Então vai e leva consigo sete espíritos diferentes, mais malignos do que ele, e entrando habita ali; e o último estado daquele homem se torna pior do que o primeiro. Assim acontecerá também a esta geração maligna.”*
+<TS2>Novos relacionamentos<Ts>Mas aí, enquanto Ele ainda falava à multidão, a Sua mãe e Seus irmãos pararam do lado de fora, querendo falar com Ele. 
+Então alguém lhe disse, “Olha, a tua mãe e teus irmãos estão parados lá fora querendo falar contigo”. 
+Mas como resposta Ele disse ao que havia lhe informado, “Quem é minha mãe, e quem são meus irmãos?” 
+E estendendo a Sua mão para Seus discípulos Ele disse: “Aqui estão minha mãe e meus irmãos! Pois quem quer que faça a vontade de meu Pai nos Céus, este é meu irmão, minha irmã e minha mãe.”*
