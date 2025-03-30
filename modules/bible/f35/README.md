@@ -6,8 +6,11 @@ Esse é um trabalho de conversão do conteúdo do livro "**O Soberano Criador J�
 *A Ver* e *Corrigidas*:
 
 ### Corrigidas
-**Mateus 8:32**: ~~manda~~ => manada; <br>
-**Mateus 12:22**: ~~o <sup>A</sup>cego e <sup>B</sup>mudo <sup>B</sup>falava e <sup>A</sup>via.<sup>b</sup>~~ => o cego e mudo falava e via.<sup>b</sup>; <br>
+**Mateus 8:32**: ~~manda~~ => manada;
+
+Obs: **_No trecho abaixo a marcação do verso 50 estava ausente_**: <br>
+
+**Mateus 12**: ~~<sup>49</sup>E estendendo a Sua mão para Seus discípulos Ele disse: “Aqui estão minha mãe e meus irmãos! Pois quem quer que faça a vontade de meu Pai nos Céus, este é meu irmão, minha irmã e minha mãe.”~~ => <sup>49</sup>E estendendo a Sua mão para Seus discípulos Ele disse: “Aqui estão minha mãe e meus irmãos! <sup>50</sup>Pois quem quer que faça a vontade de meu Pai nos Céus, este é meu irmão, minha irmã e minha mãe.”
 
 ### A Ver
 **Mateus 12:1**: lavoras (Vem mais do ato de lavrar a terra);
