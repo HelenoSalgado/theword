@@ -10,9 +10,11 @@ Esse é um trabalho de conversão do conteúdo do livro "**O Soberano Criador J�
 
 Obs: **_No trecho abaixo a marcação do verso 50 estava ausente_**: <br>
 
-**Mateus 12**: ~~<sup>49</sup>E estendendo a Sua mão para Seus discípulos Ele disse: “Aqui estão minha mãe e meus irmãos! Pois quem quer que faça a vontade de meu Pai nos Céus, este é meu irmão, minha irmã e minha mãe.”~~ => <sup>49</sup>E estendendo a Sua mão para Seus discípulos Ele disse: “Aqui estão minha mãe e meus irmãos! <sup>50</sup>Pois quem quer que faça a vontade de meu Pai nos Céus, este é meu irmão, minha irmã e minha mãe.”
+**Mateus 12:49**: E estendendo a Sua mão para Seus discípulos Ele disse: “Aqui estão minha mãe e meus irmãos! ~~Pois quem quer que faça a vontade de meu Pai nos Céus, este é meu irmão, minha irmã e minha mãe.”~~ => E estendendo a Sua mão para Seus discípulos Ele disse: “Aqui estão minha mãe e meus irmãos! <sup>50</sup>Pois quem quer que faça a vontade de meu Pai nos Céus, este é meu irmão, minha irmã e minha mãe.”
 
-**Mateus 14:5**: E embora quisesse ~~mata-lo~~, ele temia o povo,<sup>c</sup> porque eles o tinham como profeta. => E embora quisesse matá-lo, ele temia o povo,<sup>c</sup>, porque eles o tinham como profeta.
+**Mateus 14:5**: E embora quisesse ~~mata-lo~~, ele temia o povo,<sup>c</sup> porque eles o tinham como profeta. => E embora quisesse matá-lo, ele temia o povo,<sup>c</sup> porque eles o tinham como profeta.
+
+**Mateus 21:34**: Quando o tempo da vindima se aproximou, ele enviou seus servos aos lavradores ~~pare~~ receber seus frutos. => Quando o tempo da vindima se aproximou, ele enviou seus servos aos lavradores para receber seus frutos.
 
 ### A Ver
 **Mateus 12:1**: lavoras (Vem mais do ato de lavrar a terra);
