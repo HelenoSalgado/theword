@@ -16,5 +16,9 @@ Obs: **_No trecho abaixo a marcação do verso 50 estava ausente_**: <br>
 
 **Mateus 21:34**: Quando o tempo da vindima se aproximou, ele enviou seus servos aos lavradores ~~pare~~ receber seus frutos. => Quando o tempo da vindima se aproximou, ele enviou seus servos aos lavradores para receber seus frutos.
 
+**Mateus 28:20**: ensinando-os a obedecer todas as coisas que eu ordenei a vocês;<sup>e</sup>
+e atenção, eu permaneço com vocês todos os dias, até o fim da era!”<sup>f</sup> ~~Amem~~.<sup>e</sup> => ensinando-os a obedecer todas as coisas que eu ordenei a vocês;<sup>e</sup>
+e atenção, eu permaneço com vocês todos os dias, até o fim da era!”<sup>f</sup> Amém.<sup>e</sup>
+
 ### A Ver
 **Mateus 12:1**: lavoras (Vem mais do ato de lavrar a terra);
