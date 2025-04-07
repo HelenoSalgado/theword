@@ -1,41 +1,56 @@
-<TS2>Muitas parábolas<Ts>Outra vez Ele começou a ensinar à beira-mar. E ajuntou-se a Ele uma grande multidão, de sorte que entrou e assentou-se num barco, flutuando no mar, enquanto toda a multidão ficou em terra, na beira do mar. 
-Aí ele começou a ensinar-lhes muitas coisas por parábolas, e disse-lhes no Seu ensinar: 
-“Ouçam! É que um semeador saiu a semear. 
-E aconteceu que, no semear dele, uma parte caiu junto do caminho, e os pássaros* vieram e a devoraram. 
-Já outra parte caiu em área pedregosa onde não tinha muito solo; e logo brotou, porque não havia profundidade de solo. 
-Mas ao nascer do sol foi queimado, e porque não tinha raiz, secou-se. 
-Já outra parte caiu entre os espinhos, e os espinhos cresceram e a sufocaram, e não deu fruto. 
-Já outra parte caiu dentro da boa terra, e vingando e crescendo começou a produzir fruto – dando trinta, sessenta, e até cem por um.” 
-Aí Ele disse, “Quem tem ouvidos para ouvir, que ouça!”
-<TS2>O porquê de parábolas<Ts>Quando Ele ficou só, os que estavam ao Seu redor, com os doze,* pediram explicação da parábola. 
-E Ele lhes disse: “A vocês tem sido dado saber* o mistério do Reino de Deus; mas aos que estão de fora, tudo está sendo dado por parábolas, 
-para que: ‘Ao verem vejam, mas não percebam; e ao ouvirem ouçam, mas não entendam; para que não venham a se arrepender, e seus pecados* lhes sejam perdoados.’”*
-<TS2>‘Os solos’ explicada<Ts>Aí Ele lhes disse: “Vocês não entendem esta parábola? Como, então, entenderão todas as parábolas? 
-O semeador semeia a Palavra. 
-Estes são aqueles onde a Palavra é semeada junto do caminho: logo que a ouvem, Satanás vem e retira a Palavra que foi semeada nos corações deles.* 
-De forma semelhante, estes são aqueles semeados na área pedregosa: logo que ouvem a Palavra a recebem com alegria, 
-mas como eles não têm raiz em si mesmos, são temporários – quando surge tribulação ou perseguição por causa da Palavra, logo caem fora.* 
-E estes são aqueles semeados entre os espinhos: eles ouvem a Palavra, 
-mas as preocupações desta era, a sedução da riqueza e os desejos exagerados por outras coisas entram e sufocam a Palavra, e se torna infrutífera. 
-E estes são aqueles semeados na boa terra: tais pessoas ouvem a Palavra, abraçam ela e produzem fruto – dando trinta, sessenta, até cem por um.”*
-<TS2>A candeia<Ts>Ele lhes disse também: “Porventura alguém traz uma candeia para ser colocada debaixo de uma caixa* ou de uma cama? Antes, não é para ser colocada no seu velador? 
-Porque não há ‘encoberto’ que não possa ser exposto, e nada tem sido escondido, a não ser para vir à luz. 
-Se alguém tem ouvidos para ouvir, que ouça!” 
-Aí Ele disse-lhes: “Prestem atenção ao que vocês ouvem. Com a medida com que medirem será medido de volta a vocês; e a vocês que ouvem,* mais será acrescentado. 
-Porque ao que tem, mais lhe será dado; e do que não tem, até o que tem lhe será tirado.”*
-<TS2>Crescimento espontâneo<Ts>E seguiu dizendo: “O Reino de Deus é assim como se um homem fosse lançar a semente sobre a terra 
-e fosse dormir e levantar-se noite e dia, e a semente fosse germinar e crescer, ele próprio não sabendo como. 
-Porque por si mesma a terra frutifica: primeiro um talo, depois uma espiga, então o grão cheio na espiga. 
-Mas assim que o fruto estiver pronto, ele mete a foice, porque a colheita chegou.”*
-<TS2>O grão de mostarda<Ts>E disse ainda: “Com que compararemos o Reino de Deus, ou com que tipo de parábola devemos ilustrá-lo? 
-É como um grão de mostarda, o qual, quando é semeado na terra, é a menor de todas as tais sementes;* 
-mas uma vez plantado, ele cresce e se torna maior do que todas as hortaliças, e produz ramos tão grandes que os pássaros do ar podem descansar debaixo da sua sombra.”* 
-Foi com muitas tais parábolas que Ele lhes anunciou a Palavra, até o ponto que eram capazes de ouvi-la. 
-Mas sem uma parábola Ele não lhes falava; contudo, em particular, Ele explicava tudo aos Seus discípulos.
-<TS2>Uma tempestade sobrenatural<Ts>Naquele mesmo dia, ao anoitecer, Ele lhes disse, “Vamos atravessar para o outro lado”. 
-Como ele já estava no barco,* eles partiram com Ele, deixando a multidão para trás (aliás, outros barquinhos estavam com Ele também).* 
-Ora, levantou-se um forte vendaval ciclônico, tanto que as ondas se lançaram para dentro do barco, de maneira que já se enchia. 
-E <FU>Ele<Fu> estava sobre a popa, dormindo sobre a almofada;* aí eles O despertam e lhe dizem, “Mestre, não te importas que estamos perecendo?!”* 
-Aí, despertado, Ele repreendeu o vento e disse ao mar, “Cala-te; fica amordaçado!” E o vento parou, e houve calmaria completa.* 
-Aí Ele disse-lhes: “Por que vocês estão com tanto medo? Como é que não têm fé?”* 
-Eles estavam apavorados, e começaram a dizer uns aos outros, “Quem será este, que até o vento e o mar lhe obedecem!?”*
+<TS2>Uma visita a Natsaré<Ts>Ele partiu dali e chegou a Sua cidade,* e Seus discípulos O seguiram. 
+E quando chegou o sábado, Ele começou a ensinar na sinagoga. E muitos ouvintes ficaram maravilhados, dizendo: “De onde lhe vêm estas coisas?” e, “Que sabedoria é esta que lhe foi dada?” e, “Que maravilhas são feitas por Sua mão!” 
+“Não é este o carpinteiro,* o filho de Maria e irmão de Tiago, José, Judas e Simão? E não estão aqui conosco as suas irmãs?”* E ficaram ofendidos com Ele. 
+Mas Jesus lhes disse: “Um profeta não fica sem honra, a não ser na sua terra, entre seus parentes e até na própria casa”.*
+E não pôde fazer ali nenhuma obra maravilhosa, exceto impor as mãos sobre uns poucos doentes e curá-los. 
+E Ele ficou admirado com a incredulidade deles. Então ele percorreu os povoados ao redor, ensinando.
+<TS2>Os doze comissionados e enviados<Ts>Ele convocou os doze e começou a enviá-los, de dois em dois, dando a eles autoridade sobre os espíritos imundos. 
+E Ele ordenou-lhes que nada levassem para o caminho, a não ser bordão – nem mochila, nem pão, nem dinheiro no cinto – 
+mas que calçassem sandálias, e não vestissem duas túnicas. 
+E Ele dizia-lhes: “Quando quer que entrem numa casa, fiquem ali até partirem daquele lugar.*
+E tantos quantos não vos receberem nem vos ouvirem, ao partirem dali, sacudam a poeira da sola dos pés, como testemunho contra eles.* Deveras vos digo que haverá mais tolerância no Dia de Juízo para Sodoma e Gomorra do que para aquele lugar.”* 
+Aí eles saíram e começaram a pregar que as pessoas deveriam se arrepender; 
+e expulsavam muitos demônios, e ungiam muitos doentes com óleo, e os curavam.
+<TS2>Herodes tinha executado João o Batizador<Ts>Ora, o rei Herodes tomou conhecimento, porque o nome dEle havia se tornado bem conhecido, e ele dizia, “João o Batizador foi ressurreto dentre os mortos, e é por isso que ‘os poderes’* estão operando nele”. 
+Outros diziam, “Ele é Elias”. E ainda outros diziam, “Ele é um profeta como um dos profetas”. 
+Mas quando Herodes ouviu, ele disse, “Este é João, quem eu decapitei; ele foi ressurreto dentre os mortos!”* 
+É que o próprio Herodes tinha mandado prender João e amarrá-lo na prisão, por causa de Herodias, mulher de Filipe, seu irmão; porque ele tinha casado com ela – 
+pois João seguia dizendo a Herodes, “Não é permitido ficar com a mulher de teu irmão!”* 
+Assim, Herodias tinha rancor dele e queria matá-lo,* mas não podia, 
+porque Herodes temia João e o protegia, sabendo que ele era um homem justo e santo. E ao consultá-lo ele fazia muitas coisas;* aliás, ele o ouvia com prazer. 
+Mas chegou um dia oportuno* quando Herodes, no seu aniversário, estava proporcionando um banquete a seus cortesões, aos comandantes militares e aos homens mais importantes de Galileia. 
+Quando a filha da própria Herodias entrou e dançou, e agradou a Herodes e aos convidados, o rei disse à jovem, “Pede-me o que quiseres, e eu te darei”. 
+Ele até jurou a ela, “Seja o que for que me pedires, eu te darei, até metade de meu reino!”* 
+Aí ela saiu e disse a sua mãe, “Que pedirei?” E <FU>ela<Fu> disse, “A cabeça de João o Batizador!” 
+E voltando à presença do rei com pressa, ela pediu, dizendo, “Quero que me dê agora mesmo a cabeça de João o Batizador numa travessa!” 
+Embora o rei ficasse bastante entristecido, por causa dos seus juramentos, e dos convidados, ele não quis negá-la. 
+Imediatamente o rei mandou um carrasco e ordenou que a cabeça fosse trazida. Aí ele foi e o decapitou na prisão, 
+trouxe a cabeça numa travessa, e a deu à jovem; e a jovem a deu a sua mãe.* 
+Tomando conhecimento, os discípulos dele vieram, retiraram o cadáver dele e o colocaram num túmulo.*
+<TS2>Os doze retornam<Ts>Os apóstolos ajuntaram-se a Jesus e lhe relataram tudo, tanto o que tinham feito como o que tinham ensinado. 
+E ele disse-lhes, “Venham vocês mesmos sozinhos a um lugar deserto e descansem um pouco”; é que tinha muita gente indo e vindo, e eles nem tinham calma para comer.
+<TS2>Pão para 5.000 homens<Ts>Então eles se afastaram num barco, a sós, a um lugar deserto. 
+Mas muitos viram eles partindo e os reconheceram,* e correram a pé de todos os povoados e chegaram lá primeiro do que eles, e se ajuntaram a Ele.* 
+Quando Jesus desembarcou, Ele viu uma grande multidão* e teve compaixão deles, porque eram como ovelhas sem pastor, e Ele começou a ensinar-lhes muitas coisas. 
+Quando o dia ficou bastante adiantado, os Seus discípulos aproximaram-se dEle e disseram: “Este é um lugar deserto, e já é tarde. 
+Despede-os, para que vão às propriedades e aldeias circunvizinhas e comprem pão para si; porque não têm o que comer.”* 
+Mas respondendo Ele lhes disse, “Deem-lhes vocês de comer!”* E eles lhe dizem, “Devemos ir e comprar duzentos denários de pão e dar-lhes de comer?” 
+Aí Ele lhes diz: “Quantos pães vocês têm? Vão e vejam.” Quando ficaram sabendo, disseram, “Cinco, e dois peixes”. 
+Então Ele ordenou que todos se reclinassem em grupos sobre a grama verde. 
+Com isso eles se reclinaram em grupos de cem e de cinquenta. 
+E tomando Ele os cinco pães e os dois peixes, e olhando para o céu, abençoou e partiu os pães e os deu a Seus discípulos para servirem ao povo;* Ele também dividiu os dois peixes entre todos. 
+Todos comeram e ficaram saciados.* 
+E recolheram* doze cestos cheios de pedaços de pão e de peixe.* 
+Os que comeram os pães foram cinco mil homens.*
+<TS2>Jesus se retira para orar<Ts>Em seguida Ele obrigou os Seus discípulos a entrarem no barco e prosseguir para o outro lado, a Betsaida,* enquanto ele despedia a multidão. 
+Após despedi-los, Ele subiu ao monte para orar.
+<TS2>Um passeio sobre água<Ts>E passada a tardinha, o barco estava no meio do mar; e Ele estava sozinho em terra. 
+E Ele viu* que eles se fatigavam a remar, porque o vento lhes era contrário. Aí, por volta da quarta vigília da noite,* Ele se aproximou deles andando sobre a água, e ia passar por eles;* 
+mas eles O viram andando sobre a água, imaginaram que fosse um fantasma e gritaram! 
+Porque todos O viram e ficaram aterrorizados. Sem mais, ele falou com eles e disse: “Coragem! Sou eu; não tenham medo!” 
+Então Ele entrou no barco para junto deles, e o vento parou. E eles ficaram totalmente perplexos dentro de si, e maravilhavam. 
+Pois eles não tinham assimilado o alcance significativo dos pães – o coração deles havia sido endurecido.* 
+<TS2>Em Genesaré<Ts>Após terem atravessado,* chegaram à terra de Genesaré e ali atracaram. 
+Ao saírem do barco, Ele foi logo reconhecido, 
+e percorrendo toda a região circunvizinha, começaram a carregar os doentes em macas para onde ouviam que Ele estava. 
+E aonde quer que Ele entrasse – em povoados, vilas ou área rural – eles colocaram os doentes nas praças e suplicavam a Ele que pudessem ao menos tocar na borda de Seu manto; e todos os que tocaram nEle foram curados.*
