@@ -1,27 +1,32 @@
-#!/usr/bin/perl -w 
+#!/usr/bin/perl -w
 
 package Format;
 
 # Recebe o array de notas a ser formatadas;
 sub notes {
-    my $notes = "@_";
-    my @notes = ();
-    # Itera sobre cada bloco de texto, o delimitador de cada bloco é a linha que contém uma única letra
-    foreach(split(/\b[a-z]{1}\b\n/, $notes)){
-      # Verifica se a nota não está vazia
-      if($_){
-        my $note = $_;
-        # Remove quebras de linhas
-        $note =~ s/\n//g;
-        # Adiciona ao array de notas
-        push @notes, "$note\n";
-      }
+  my @notes = ();
+  my $notes = "@_";
+  my $note = "";
+  # Percorre cada linha de texto
+  while($notes =~ /\n(.*)/g){
+    # Add linha de conteúdo à variável $line
+    my $line = $1;
+    # Se a linha contiver apenas uma letra minúscula, então é a referência de nota
+    if($line =~ /^\s*[a-z]\s*$/){
+      # Add nota ao array de notas quando a referência da próxima nota é encontrada
+      push @notes, "$note\n";
+      # Esvazia $note
+      $note = "";
+    }else{
+      # Concatena linhas até que a referência da próxima nota seja encontrada
+      $note = $note . $line;
     }
-    $notes = "@notes";
-    # Remove espaços no início e no final das linhas
-    $notes =~ s/^\s+|\s+$//gm;
-    # Retorna buffer de notas
-    return $notes;
+  }
+  # Add última nota
+  push @notes, $note;
+  # Remove espaço de início de linha e tranforma array em string
+  $notes = trim(@notes);
+  return $notes;
 }
 
 sub verses {
@@ -36,6 +41,14 @@ sub verses {
     $verses =~ s/^\s//gm;
     # Retorna buffer de versículos
     return $verses;
+}
+
+sub trim {
+  my @notes = @_;
+  foreach my $i (0 .. $#notes) {
+    $notes[$i] =~ s/^\s*//;
+  }
+  return "@notes";
 }
 
 1;
