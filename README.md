@@ -20,6 +20,11 @@ git pull
 ```
 **Observação**: Você pode apenas copiar o arquivo principal (F35.nt) e colar na sua pasta personalizada de módulos, ou então criar um link simbólico para lá, o que recomendo, já que poderá correr `git pull` no repositório git e atualizá-lo a qualquer momento.
 
+## Uma maneira mais fácil
+Outra forma de obter o módulo no atual estágio, sem possibilidade de atualização, é simplesmente baixar o arquivo principal, e depois carregá-lo no TheWord:
+
+[**F35.nt**](https://github.com/HelenoSalgado/theword/blob/main/modules/bible/f35/F35.nt)
+
 ## Estrutura de pastas
 ```bash
 ├── input-notes.txt
@@ -31,7 +36,8 @@ git pull
 │   └── bible
 │       └── f35
 │           ├── F35.nt
-│           └── mateus.nt
+│           ├── mateus.nt
+│           └── marcos.nt
 ├── perl
 │   ├── index.pl
 │   └── lib
