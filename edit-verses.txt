@@ -1,33 +1,44 @@
-<TS1>A última semana<Ts><TS2>A entrada ‘triunfal’ – domingo, 31-03-30 d.C.<Ts>Quando eles se aproximavam de Jerusalém, chegando a Betfagé e Betânia, ao monte das Oliveiras, Ele enviou dois de Seus discípulos, 
-dizendo a eles: “Vão ao povoado que está defronte de vocês; assim que entrarem nele vocês encontrarão um jumentinho amarrado, no qual ainda não montou homem algum. Desamarrem e tragam ele. 
-E se alguém vos disser, ‘Por que vocês estão fazendo isso?’, digam, ‘O Senhor precisa dele’, e logo Ele o enviará para cá.”* 
-Então eles foram e encontraram o jumentinho na rua, amarrado perto da porta, e o desamarraram. 
-E alguns dos que estavam parados ali lhes disseram, “O que vocês estão fazendo, desamarrando o jumentinho?” 
-Aí eles responderam-lhes como Jesus tinha instruído, e eles os deixaram ir. 
-Eles levaram o jumentinho a Jesus, e colocaram sobre ele os seus mantos; e Ele o montou. 
-Já muitos espalharam seus mantos pelo caminho, ao passo que outros estavam cortando ramos das árvores* e os espalharam pelo caminho. 
-Tanto os que iam adiante, como os que seguiam, começaram a vociferar, dizendo: “Hosana!” “Bendito é O que vem em nome do SENHOR!”* 
-“Bendito é o Reino do nosso pai Davi, que vem em nome do Senhor!”* “Hosana nas maiores alturas!” 
-Então Jesus entrou em Jerusalém e adentrou o templo. E depois de observar tudo à Sua volta,* como já era tarde, Ele saiu para Betânia com os doze.
-<TS2>A figueira maldita<Ts>No dia seguinte, quando estavam saindo de Betânia, Ele teve fome. 
-E vendo à distância uma figueira que tinha folhas, Ele foi ver se porventura acharia alguma coisa nela. E chegando até ela, Ele nada encontrou, a não ser folhas, porque não era tempo de figos.* 
-Aí Jesus reagiu e disse a ela, “Que nunca mais coma alguém fruto de ti!”* E os Seus discípulos estavam ouvindo.
-<TS2>Jesus purifica o templo (2ª vez) – segunda-feira, 01-04-30 d.C.<Ts>Eles chegaram a Jerusalém; e Jesus, entrando no templo, começou a expulsar os que vendiam e compravam no templo, e Ele derrubou as mesas dos cambistas e as cadeiras dos que vendiam pombas. 
-E Ele não permitiu que alguém carregasse vaso pelo templo. 
-E Ele os instruía dizendo: “Não está escrito, <FO>‘Minha casa será chamada de casa de oração para todas as nações’<Fo>?* Mas vocês fizeram dela um ‘covil de ladrões’!”* 
-Os escribas e os principais sacerdotes tomaram conhecimento, e seguiram procurando uma maneira de destruí-lo;* porque eles tinham medo dEle, visto que toda a multidão estava maravilhada com o Seu ensino. 
-Ao cair da tarde, ele saiu da cidade.
-<TS2>Como afogar um monte<Ts>Ora, de manhã, ao passarem, eles viram a figueira seca desde as raízes. 
-E Pedro, lembrando-se, disse a Ele: “Rabi, vê! A figueira que amaldiçoaste secou!” 
-Aí Jesus respondeu e disse-lhes: “Tenham fé em Deus.* 
-Porque eu deveras vos digo que quem quer que diga a este monte, ‘Fique levantado e seja jogado o mar adentro’, e não duvidar no seu coração, mas crer que as coisas que ele disser acontecerão, ele terá o que disser.*
-É por isso que eu vos digo: Quaisquer coisas que vocês pedirem em oração, creiam estar recebendo, e vocês as terão. 
-E quando quer que estejam orando, perdoem, se tiverem alguma coisa contra alguém, para que vosso Pai, que existe nos céus, também possa perdoar as vossas transgressões. 
-Mas se vocês não perdoarem, tampouco vosso Pai que existe nos céus perdoará as vossas transgressões.”*
-<TS2>A autoridade de Jesus é questionada – terça-feira, 02-04-30 d.C.<Ts>Chegaram novamente a Jerusalém. E quando Ele estava andando pelo templo, os principais sacerdotes, os escribas e os anciãos foram até Ele. 
-E eles disseram-lhe, “Por qual autoridade estás fazendo estas coisas?” e “Quem te deu a autoridade para fazer estas coisas?” 
-Aí Jesus respondeu e disse-lhes: “Eu também vos farei uma pergunta; respondam-me, e eu vos direi por qual autoridade estou fazendo estas coisas. 
-O batismo de João: era do céu ou dos homens?”* 
-Aí eles arrazoaram entre si dizendo: “Se dissermos, ‘Do céu’, Ele dirá, ‘Então por que vocês não creram nele?’ 
-Mas se dissermos, ‘Dos homens’…” – eles temiam o povo, porque todos sustentavam que João realmente era um profeta. 
-E respondendo disseram a Jesus, “Não sabemos”.* Aí Jesus respondeu e disse-lhes, “Tampouco eu vos direi por qual autoridade estou fazendo estas coisas”.
+<TS2>Parábola de arrendatários perversos<Ts>Então Ele começou a falar-lhes por parábolas: “Um homem plantou uma vinha – colocou uma cerca viva ao redor dela, cavou um lagar, construiu uma torre – arrendou-a a lavradores e viajou para longe. 
+No tempo certo ele enviou um escravo aos lavradores, para receber deles parte do fruto da vinha. 
+Mas eles pegaram nele, o espancaram e o mandaram embora sem nada. 
+Aí ele tornou a enviar-lhes outro escravo, o qual eles feriram na cabeça com pedra* e mandaram embora humilhado. 
+E tornou a enviar outro, o qual mataram; e a muitos outros, dos quais bateram em alguns e mataram outros. 
+Por fim, ainda tendo um filho, o seu amado, enviou-lhes até ele, dizendo, ‘A meu filho respeitarão’. 
+Mas aqueles lavradores disseram entre si: ‘Este é o herdeiro. Venham, vamos matá-lo, e a herança será nossa.’ 
+Aí pegaram nele, o mataram e o jogaram para fora da vinha.*
+O que fará então o dono da vinha? Virá e destruirá aqueles lavradores, e dará a vinha a outros. 
+Vocês ainda não leram sequer esta Escritura: <FO>‘A pedra que os construtores rejeitaram, esta tornou-se a pedra angular; 
+isto veio do SENHOR, e é maravilhoso aos nossos olhos’<Fo>?”* 
+Então começaram a procurar uma maneira de prendê-lo, porque eles sabiam que Ele tinha proferido a parábola contra eles, mas tinham medo da multidão. Aí eles O deixaram e foram embora.
+<TS2>Render a César<Ts>Então eles* enviaram alguns dos fariseus e dos herodianos,* para O pegarem com uma questão. 
+Ao chegarem, eles disseram a Ele: “Mestre, sabemos que tu és honesto – não ‘facilitas’ para ninguém, porque não consideras a ‘importância’ das pessoas, mas ensinas o caminho de Deus verdadeiramente* – é coisa certa pagar imposto a César, ou não? 
+Paguemos, ou não paguemos?” Mas Ele, percebendo a hipocrisia deles, disse-lhes: “Por que vocês estão me testando? Tragam-me um denário para que eu o veja.” 
+Aí eles trouxeram, e Ele lhes disse, “De quem é esta imagem e esta inscrição?” Aí eles lhe disseram, “De César”. 
+Então Jesus respondeu e disse-lhes, “Paguem a César o que é de César, e a Deus o que é de Deus”.* E maravilharam-se dEle.
+<TS2>Um caso hipotético*<Ts>Então alguns saduceus chegaram até Ele – eles dizem que não há ressurreição – e O questionaram dizendo: 
+“Mestre, Moisés nos escreveu que, se o irmão de alguém morrer e deixar mulher, mas sem filhos, então o irmão do morto deve tomar a viúva e suscitar descendência a seu irmão. 
+Ora, havia sete irmãos; o primeiro tomou mulher e morreu sem deixar descendência. 
+Aí o segundo tomou ela, e morreu; e nem este deixou descendência. O mesmo aconteceu com o terceiro. 
+Aliás, todos os sete a tomaram, e não deixaram descendência. Por último, morreu também a mulher. 
+Na ressurreição, quando quer que ressuscitem, de qual deles será mulher? – porque os sete a tiveram por mulher.” 
+Aí Jesus respondeu e disse-lhes: “Vocês não conhecem as Escrituras nem o poder de Deus;* não é esta a razão de serem enganados? 
+Quando quer que pessoas ressuscitem dentre os mortos, nem se casam nem são dadas em casamento, mas são como anjos nos céus.*
+Mas quanto ao fato de que os mortos ressuscitam, vocês nunca leram no livro de Moisés, acerca da Sarça, como Deus falou com ele dizendo, <FO>‘Eu sou o Deus de Abraão, e o Deus de Isaque, e o Deus de Jacó’<Fo>? 
+Ele não é o Deus de mortos, mas sim Deus de vivos. Portanto, vocês são muito enganados!”*
+<TS2>O maior mandamento<Ts>Um dos escribas que havia se aproximado, os ouviu discutindo, percebeu que Ele tinha lhes respondido bem e perguntou-lhe, “Qual é o primeiro de todos os mandamentos?” 
+Jesus respondeu-lhe:* “O primeiro de todos os mandamentos é: ‘Ouve, ó Israel, o SENHOR vosso* Deus, o SENHOR é um; 
+e amarás o SENHOR teu Deus de todo o teu coração e de toda a tua alma e de toda a tua mente e de toda a tua força!’* Este é o primeiro mandamento.* 
+E o segundo, parecido, é: ‘Amarás o teu próximo como a ti mesmo’.* Não há outro mandamento maior do que estes.” 
+Aí o escriba disse a Ele: “Muito bem, Mestre, disseste corretamente que Ele é um, e que não há outro além dEle. 
+Aliás, amá-lo de todo o coração e de todo o entendimento e de toda a alma* e de toda a foça, e amar o próximo como a si mesmo, é mais do que todos os holocaustos e sacrifícios.” 
+Aí Jesus, vendo que ele tinha respondido sabiamente, disse-lhe, “Tu não estás longe do Reino de Deus”.* E depois disso ninguém mais ousava fazer-lhe pergunta.
+<TS2>O Cristo é o filho de Davi?<Ts>Então, ensinando no templo, Jesus prosseguiu dizendo: “Como dizem os escribas que o Messias é filho de Davi? 
+Porque o próprio Davi disse pelo Espírito Santo: <FO>‘O SENHOR disse ao meu Senhor, “Senta-te à minha direita até que eu ponha os teus inimigos por escabelo de teus pés”.’<Fo>*
+Portanto, o próprio Davi o chama ‘Senhor’; como pode, então, ser Ele seu filho?” A grande multidão O ouviu com prazer.
+<TS2>Uma advertência<Ts>Ele disse-lhes também no Seu ensino: “Cuidado com os escribas, que gostam de perambular com togas compridas, e receber saudações nas praças, 
+e as melhores cadeiras nas sinagogas, e os lugares de honra nos banquetes; 
+que devoram as casas das viúvas,* enquanto ‘fazem bonito’ com longas orações. Eles receberão condenação mais severa!”
+<TS2>A oferta de uma viúva<Ts>Então Jesus sentou-se defronte da caixa das ofertas e começou a observar como as pessoas depositavam dinheiro na caixa. Muitos ricos colocaram bastante. 
+Uma viúva pobre veio também e colocou dois ‘ceitis’, que valiam um ‘centavo’.*
+Aí Ele convocou os Seus discípulos e disse-lhes: “Deveras eu vos digo que esta viúva tão pobre colocou mais na caixa do que todos aqueles contribuintes, 
+porque todos eles deram do que lhes sobrava; mas ela, da sua penúria, colocou tudo o que tinha, o seu sustento inteiro.”*

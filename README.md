@@ -53,3 +53,5 @@ Outra forma de obter o módulo no atual estágio, sem possibilidade de atualiza�
 * **merged.txt** recebe o texto final (As notas são incorporadas ao texto da Bíblia, para cada asterísco uma nota é adicionada).
 
 **Obs**: _Cada linha de texto no arquivo F35.nt corresponde a um versículo_.
+
+> Seca-se a erva, e cai a flor, porém a palavra de nosso Deus subsiste eternamente (Isaías 40.8).
