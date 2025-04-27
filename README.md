@@ -2,7 +2,7 @@
 
 Esse projeto tem como objetivo criar módulos para o [**TheWord**](https://www.theword.net), que é um software livre para auxiliar os estudos da Bíblia. Inicialmente pretendo converter para um módulo de Bíblia o **Novo Testamento segundo a Família 35**, tradução do **Dr. Wilbur Norman Pickering**, extraída do livro [**O Soberano Criador Já Falou, 3° Edição**](https://www.prunch.com.br/wp-content/uploads/2024/08/O-Soberano-Criador-ja-Falou-3-br-c.pdf).
 
-![Screen Software](./assets/mt-f35.png)
+![Screen Software](./assets/theword.gif)
 
 ## Como obter o módulo?
 
