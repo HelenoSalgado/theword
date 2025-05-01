@@ -1,0 +1,59 @@
+{
+    "colorMyText.configurations": [
+        {
+            "paths": [
+                "modules/**/*.nt"
+            ],
+            "rules": [
+                {
+                    "matchCase": true,
+                    "patterns": [
+                        "(?<=(<TS[0-3]|b)>).*?(?=<(Ts|\\/?b>))"
+                    ],
+                    "color": "Green",
+                    "bold": true
+                },
+                {
+                    "matchCase": true,
+                    "patterns": [
+                        "(?<=<RF q=[0-9]*>).*?(?=<Rf>)"
+                    ],
+                    "color": "Black",
+                    "italic": true
+                },
+                {
+                    "matchCase": true,
+                    "patterns": [
+                        "(<F[U|u|O|o|I|i]>|<\\/?b>|<T[S|s][0-3]?>|<RF|(?<=q=[0-9]+)>|<Rf>)"
+                    ],
+                    "color": "Blue",
+                    "italic": true
+                },
+                {
+                    "patterns": [
+                        "([0-9]+)"
+                    ],
+                    "color": "Yellow",
+                    "italic": true
+                },
+                {
+                    "patterns": [
+                        "(q=(?=[0-9]+))"
+                    ],
+                    "color": "Blue"
+                },
+                {
+                    "matchCase": true,
+                    "patterns": [
+                        "(?<=<FO>).*(?=<Fo>)"
+                    ],
+                    "bold": true
+                }
+            ]
+        },
+    ],
+    "editor.foldingMaximumRegions": 10000,
+    "workbench.preferredLightColorTheme": "Sweet Dracula",
+    "workbench.preferredDarkColorTheme": "Sweet Dracula",
+    "workbench.colorTheme": "Sweet Dracula"
+}
