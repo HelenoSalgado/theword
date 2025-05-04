@@ -60,7 +60,9 @@ if(! -f $file_edit_notes){
 
 # Pede uma ação do usuário antes de continuar fluxo de execução
 print "\n", RED, "[AVISE] " . "\n* Coloque um asterísco em cada referência de nota; \n* Edite títulos e subtítulos; \n* Depois aperte enter para continuar:", RESET "\n";
-my $void = <>;
+
+# Trava a execução para que as alterações possam ser feitas, depois enter para continuar.
+my $void = <STDIN>;
 
 # Abre arquivo edit-verses.txt novamente e resgata texto editado
 open(my $edit_verses, $file_edit_verses) or die "Erro ao abrir arquivo: $!";
