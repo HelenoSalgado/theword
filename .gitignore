@@ -1,6 +1,5 @@
 .vscode/
-perl/
-books
+books/
 edit-*.txt
 input-*.txt
 merged.txt
