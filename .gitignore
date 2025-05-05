@@ -1,2 +1,6 @@
 .vscode/
-perl/number_notes.log
+perl/
+books
+edit-*.txt
+input-*.txt
+merged.txt

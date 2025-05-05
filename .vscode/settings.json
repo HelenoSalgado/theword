@@ -7,6 +7,13 @@
             ],
             "rules": [
                 {
+                    "patterns": [
+                        "(([0-9]+):([0-9]+))"
+                    ],
+                    "color": "Green",
+                    "italic": true
+                },
+                {
                     "matchCase": true,
                     "patterns": [
                         "(?<=(<TS[0-3]|b)>).*?(?=<(Ts|\\/?b>))"
