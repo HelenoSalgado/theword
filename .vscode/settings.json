@@ -16,7 +16,7 @@
                 {
                     "matchCase": true,
                     "patterns": [
-                        "(?<=(<TS[0-3]|b)>).*?(?=<(Ts|\\/?b>))"
+                        "(?<=(<TS[0-3]|b)>).*?(?=<(RF|Ts|\\/?b>))"
                     ],
                     "color": "Green",
                     "bold": true
@@ -26,7 +26,7 @@
                     "patterns": [
                         "(?<=<RF q=[0-9]*>).*?(?=<Rf>)"
                     ],
-                    "color": "Cyan",
+                    "color": "Black",
                     "italic": true
                 },
                 {

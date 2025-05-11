@@ -8,7 +8,9 @@ use Cwd;
 use FindBin::libs;
 use Term::ANSIColor qw(:constants);
 use Format;
+use Convert;
 use Merge;
+
 
 # Define caminhos de arquivos
 my $file_input_notes = getcwd . "/input-notes.txt";
