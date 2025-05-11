@@ -93,6 +93,13 @@ sub versification {
       push @text_verses, $1;
     }
 
+    # Se $minIndex for maior que 1, então adiciona linha vazia até igualar a $minIndex
+    if($minIndex > 1){
+      for(my $i = 1; $i < $minIndex; $i++){
+        unshift @text_verses, "\n";
+      }
+    }
+
     # Reserva array para referências
     my @cap_verses_ref = ();
     while($minIndex <= $maxIndex){
@@ -107,7 +114,7 @@ sub versification {
     }
 
     # Verifica se a quantidade de versículos corresponde a quantidade de referências pré-definidas
-    if(not $#text_verses == $#cap_verses_ref+1){
+    if(not ($#text_verses - $minIndex) == $#cap_verses_ref+1){
       print "O número de versículos passado como parâmetro \nnão corresponde ao número de versículos do texto.\n\n";
       exit;
     }

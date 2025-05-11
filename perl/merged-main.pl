@@ -56,23 +56,26 @@ my @text_book_modify = ();
 
 #Transforma texto do livro (remove refs)
 while(<$input_book>){
-  # Remove quebras de linhas
   chomp $_;
   # Remove refs
-  $_ =~ s/ ?\d+:\d+ //;
+  $_ =~ s/(\s+)?\d+:\d+\s+//;
   push @text_book_modify, $_;
 }
+
+# Remove esse símbolo estranho da primeira linha do livro, se houver
+$text_book_modify[0] =~ s/^(﻿)?//;
 
 while(<$input_main_f35>){
   # Se o índice atual de linha for igual ao número da linha onde o livro começa e,
   # índice atual for menor ou igual ao número da linha onde o livro começa + total de linhas preenchidas do livro, então injetar texto do livro
   if($indexLine > $startBookVerses && $indexLine <= $startBookVerses + ($#text_book_modify + 1)){
     # Remove espaços do início de linhas do livro
-    $text_book_modify[$indexLineBook] =~ s/^\s+//;
-    # Limpa texto da linha no arquivo principal
-    $_ =~ s/^.*$//;
-    # Injeta novo texto da mesma linha referente no livro
-    $_ =~ s/^/$text_book_modify[$indexLineBook]/;
+    $text_book_modify[$indexLineBook] =~ s/^(\s+)?//;
+    # Limpa texto da linha no arquivo principal, se houver
+    $_ =~ s/(^.*$)?//;
+    # Injeta nova linha de texto referente do livro
+    $_ = "$text_book_modify[$indexLineBook]\n";
+    # Coloca texto modificado no array, linha a linha
     push @text_f35_modify, $_;
     $indexLineBook++;
   }else{
