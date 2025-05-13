@@ -20,5 +20,7 @@ Obs: **_No trecho abaixo a marcação do verso 50 estava ausente_**: <br>
 e atenção, eu permaneço com vocês todos os dias, até o fim da era!”<sup>f</sup> ~~Amem~~.<sup>e</sup> => ensinando-os a obedecer todas as coisas que eu ordenei a vocês;<sup>e</sup>
 e atenção, eu permaneço com vocês todos os dias, até o fim da era!”<sup>f</sup> Amém.<sup>e</sup>
 
+**Lucas 12:35**: Estejam cingidas as vossas cinturas e ~~acessas~~ as vossas candeias, => Estejam cingidas as vossas cinturas e acesas as vossas candeias,
+
 ### A Ver
 **Mateus 12:1**: lavoras (Vem mais do ato de lavrar a terra);
