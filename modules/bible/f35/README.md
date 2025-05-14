@@ -23,4 +23,3 @@ e atenção, eu permaneço com vocês todos os dias, até o fim da era!”<sup>f
 **Lucas 12:35**: Estejam cingidas as vossas cinturas e ~~acessas~~ as vossas candeias, => Estejam cingidas as vossas cinturas e acesas as vossas candeias,
 
 ### A Ver
-**Mateus 12:1**: lavoras (Vem mais do ato de lavrar a terra);
