@@ -22,4 +22,6 @@ e atenção, eu permaneço com vocês todos os dias, até o fim da era!”<sup>f
 
 **Lucas 12:35**: Estejam cingidas as vossas cinturas e ~~acessas~~ as vossas candeias, => Estejam cingidas as vossas cinturas e acesas as vossas candeias,
 
+**Lucas 19:5**: Quando Jesus chegou àquele lugar, ~~olho~~ para cima, viu-o e disse-lhe, “Zaqueu, desce depressa, pois hoje quero me hospedar em tua casa”.<sup>c</sup> => Quando Jesus chegou àquele lugar, olhou para cima, viu-o e disse-lhe, “Zaqueu, desce depressa, pois hoje quero me hospedar em tua casa”.<sup>c</sup>
+
 ### A Ver
