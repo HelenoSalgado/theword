@@ -1,4 +1,4 @@
-.vscode/
+.vscode/settings.json
 perl/table-verses
 edit-*.txt
 input-*.txt

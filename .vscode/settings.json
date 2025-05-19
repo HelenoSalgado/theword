@@ -26,7 +26,7 @@
                     "patterns": [
                         "(?<=<RF q=[0-9]*>).*?(?=<Rf>)"
                     ],
-                    "color": "Black",
+                    "color": "Cyan",
                     "italic": true
                 },
                 {
